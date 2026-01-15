@@ -1,6 +1,6 @@
 # Readme
 
-This is the repository for the paper "[A Novel Dynamic Graph Attention Aggregation Network for Multivariate Time Series Classification.](https://github.com/ywyhq/DET-DyAGCN)"
+This is the repository for the paper "[A Novel Dynamic Graph Attention Aggregation Network for Multivariate Time Series Classification.](https://www.sciencedirect.com/science/article/pii/S0031320325013950)"
 
 This repository contains:
 
